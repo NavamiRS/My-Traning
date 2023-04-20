@@ -58,7 +58,7 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<mainClass>excelcode.Facto.java</mainClass>
+							<mainClass>excelcode.Facto</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
